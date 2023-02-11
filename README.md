@@ -1,4 +1,4 @@
-# 🎓 CS:GO Practice Script
+# CS:GO Practice Script
 ## Small script that lets you setup handy practice gamemode on your private CS:GO server using one easy to remember command!
 
 With my file, you can easily practice different grenades, jumps, tricks, prefires or tactics solo or with your friends on any chosen map. After loading my script on the server, you get:
